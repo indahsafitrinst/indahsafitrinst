@@ -7,6 +7,7 @@
 - Laravel
 - JavaScript
 - React
+- Vue
 - Python
 - HTML
 - CSS
