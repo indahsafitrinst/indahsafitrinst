@@ -3,8 +3,22 @@
 <img align="right" src="indah.png" height="195" width="195">
 <h3> Skills </h3>
 
-- HTML               - Javascript          - Python
-- CSS                - React.js            - Bootstrap
-- PHP                - Vue.js              - Tailwind
-- Laravel            - Nuxt.js
+<ul style="columns: 4; -webkit-columns: 4; -moz-columns: 4; list-style-type: none; padding: 0;">
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>Laravel</li>
+  <li>React.js</li>
+  <li>Vue.js</li>
+  <li>Bootstrap</li>
+  <li>Tailwind</li>
+  <li>Nuxt.js</li>
+  <li>MySQL</li>
+  <li>Figma</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>Photoshop</li>
+</ul>
 
