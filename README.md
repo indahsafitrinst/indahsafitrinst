@@ -3,22 +3,29 @@
 <img align="right" src="indah.png" height="195" width="195">
 <h3> Skills </h3>
 
-<ul style="columns: 4; -webkit-columns: 4; -moz-columns: 4; list-style-type: none; padding: 0;">
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Python</li>
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>React.js</li>
-  <li>Vue.js</li>
-  <li>Bootstrap</li>
-  <li>Tailwind</li>
-  <li>Nuxt.js</li>
-  <li>MySQL</li>
-  <li>Figma</li>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>Photoshop</li>
-</ul>
-
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>Laravel</td>
+    <td>React.js</td>
+    <td>Vue.js</td>
+  </tr>
+  <tr>
+    <td>Bootstrap</td>
+    <td>Tailwind</td>
+    <td>Nuxt.js</td>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>Git</td>
+    <td>GitHub</td>
+    <td>Photoshop</td>
+  </tr>
+</table>
