@@ -3,12 +3,8 @@
 <img align="right" src="indah.png" height="195" width="195">
 <h3> Skills </h3>
 
-- PHP
-- Laravel
-- JavaScript
-- React
-- Vue
-- Python
-- HTML
-- CSS
-- Bootstrap
+- HTML               - Javascript          - Python
+- CSS                - React.js            - Bootstrap
+- PHP                - Vue.js              - Tailwind
+- Laravel            - Nuxt.js
+
