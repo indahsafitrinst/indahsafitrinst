@@ -3,29 +3,29 @@
 <img align="right" src="indah.png" height="195" width="195">
 <h3> Skills </h3>
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td>Python</td>
+    <td style="padding: 8px; text-align: center;">HTML</td>
+    <td style="padding: 8px; text-align: center;">CSS</td>
+    <td style="padding: 8px; text-align: center;">JavaScript</td>
+    <td style="padding: 8px; text-align: center;">Python</td>
   </tr>
   <tr>
-    <td>PHP</td>
-    <td>Laravel</td>
-    <td>React.js</td>
-    <td>Vue.js</td>
+    <td style="padding: 8px; text-align: center;">PHP</td>
+    <td style="padding: 8px; text-align: center;">Laravel</td>
+    <td style="padding: 8px; text-align: center;">React.js</td>
+    <td style="padding: 8px; text-align: center;">Vue.js</td>
   </tr>
   <tr>
-    <td>Bootstrap</td>
-    <td>Tailwind</td>
-    <td>Nuxt.js</td>
-    <td>MySQL</td>
+    <td style="padding: 8px; text-align: center;">Bootstrap</td>
+    <td style="padding: 8px; text-align: center;">Tailwind</td>
+    <td style="padding: 8px; text-align: center;">Nuxt.js</td>
+    <td style="padding: 8px; text-align: center;">MySQL</td>
   </tr>
   <tr>
-    <td>Figma</td>
-    <td>Git</td>
-    <td>GitHub</td>
-    <td>Photoshop</td>
+    <td style="padding: 8px; text-align: center;">Figma</td>
+    <td style="padding: 8px; text-align: center;">Git</td>
+    <td style="padding: 8px; text-align: center;">GitHub</td>
+    <td style="padding: 8px; text-align: center;">Photoshop</td>
   </tr>
 </table>
