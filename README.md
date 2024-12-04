@@ -3,8 +3,6 @@
 <img align="right" src="indah.png" height="195" width="195">
 <h3> Skills </h3>
 
-<h3> Skills </h3>
-
 - HTML             
 - CSS               
 - PHP               
